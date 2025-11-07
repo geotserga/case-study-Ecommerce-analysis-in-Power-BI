@@ -23,7 +23,6 @@ Using Power Query, DAX, and Power BI visualizations, this project demonstrates a
 Executive Summary
 
 Provides a high-level view of:
-
 - Total Sales, Profit, and Profit %
 - Profit breakdown by Category and State
 - Top-performing Products by Sales and Category
@@ -31,7 +30,6 @@ Provides a high-level view of:
 Shipping Metrics
 
 Analyzes the impact of shipping quantities and regional differences:
-
 - Comparison of baseline vs what-if shipping costs
 - Shipping savings analysis over time
 - Average quantity shipped by category
