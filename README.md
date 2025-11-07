@@ -18,16 +18,16 @@ Using Power Query, DAX, and Power BI visualizations, this project demonstrates a
 - Provide actionable recommendations to optimize sales and reduce shipping expenses
 
 
-**📊 Dashboards**
+**📊 Dashboard**
 
-Executive Summary
+Page 1: Executive Summary
 
 Provides a high-level view of:
 - Total Sales, Profit, and Profit %
 - Profit breakdown by Category and State
 - Top-performing Products by Sales and Category
 
-Shipping Metrics
+Page 2: Shipping Metrics
 
 Analyzes the impact of shipping quantities and regional differences:
 - Comparison of baseline vs what-if shipping costs
